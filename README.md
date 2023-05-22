@@ -11,6 +11,16 @@ This fork, like the original project, is released under the [CC BY-SA 4.0 licens
 
 If you like this project, please consider donating to bdring using the [Donation](#Donation) button at the end of the page.
 
+### Changes in this mod
+- The belts leading to the head block are parallel to each other.
+- The toe side of the foot is lengthened to stabilize the head height.
+- Aligned gear height.
+- Tail block gear shafts are now firmly secured.
+- The depth of the rubber mounting holes in the feet was adjusted to allow for a slight backward tilt.
+- Three shafts on the X-axis were made wider and wider to stabilize the movement when the Y-axis is extended.
+- The cover was designed to appear slim. The motif is based on a car equipped with a supercharger.
+- Interchangeable pen holders for multi-color drawing. Requires magnets.
+
 ---
 ### Introduction
 The MidTBot is a small and simple little pen plotter. All of the custom parts are 3D printed. The rest of the parts are low cost and easy to get.
